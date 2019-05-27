@@ -2,7 +2,7 @@
 Adding A Simple Contact Form
 ============================
 
-Using the Neos.Form package you can easily create and adopt simple to very complex forms.
+Using the Neos.Form package and the Neos.NodeTypes:Form package you can easily create and adopt simple to very complex forms.
 For it to work properly you just have to define where it should find its form configurations.
 
 Yaml (Sites/Vendor.Site/Configuration/Settings.yaml) ::
